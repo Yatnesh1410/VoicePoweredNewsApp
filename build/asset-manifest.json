@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ff73cdbd.css",
+    "main.js": "/static/js/main.b57d31a3.js",
+    "static/media/alanLogo.jpeg": "/static/media/alanLogo.f8d2dc8bed119f2cfa62.jpeg",
+    "index.html": "/index.html",
+    "main.ff73cdbd.css.map": "/static/css/main.ff73cdbd.css.map",
+    "main.b57d31a3.js.map": "/static/js/main.b57d31a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff73cdbd.css",
+    "static/js/main.b57d31a3.js"
+  ]
+}
